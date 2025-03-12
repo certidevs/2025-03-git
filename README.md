@@ -46,7 +46,8 @@
     - Resolución de conflictos: `git merge`
     - Prevención de conflictos
 
-8. Características de GitHub
-    - Repositorio especial username
-    - GitHub Pages
-    - GitHub Actions
+8. Herramientas de GitHub
+    - Issues en GitHub
+    - Seguimiento de tareas en GitHub
+    - Revisión de código en GitHub
+    - Automatización con CI/CD con GitHub Actions
